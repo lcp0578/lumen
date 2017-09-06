@@ -1,0 +1,9 @@
+/vendor
+## zend studio
+/.settings
+/.buildpath
+/.project
+/.idea
+Homestead.json
+Homestead.yaml
+.env
